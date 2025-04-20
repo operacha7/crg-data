@@ -3,40 +3,45 @@
     "Registered Organization": "Christian Community Service Center (Central)",
     "Org Email": "",
     "Contact Phone": "713-871-9741",
+    "Default Language": "English",
     "Org Web Page": "https://ccschouston.org/",
     "Org PassCode": "a",
-    "Copy to User": false
+    "Copy to User": "false"
   },
   {
     "Registered Organization": "Christian Community Service Center (SW)",
     "Org Email": "operacha@gmail.com",
     "Contact Phone": "713-871-9741",
+    "Default Language": "English",
     "Org Web Page": "https://ccschouston.org/",
     "Org PassCode": "b",
-    "Copy to User": false
+    "Copy to User": "false"
   },
   {
     "Registered Organization": "St Theresa (SVdP D2) Sugar Land",
     "Org Email": "stcc.svdp@gmail.com",
     "Contact Phone": "281-242-9149",
+    "Default Language": "English",
     "Org Web Page": "https://www.sugarlandcatholic.com/ministry-spotlight--st-vincent-de-paul",
     "Org PassCode": "c",
-    "Copy to User": false
+    "Copy to User": "false"
   },
   {
     "Registered Organization": "St Vincent de Paul (SVdP D3)",
     "Org Email": "svdp77025@gmail.com",
     "Contact Phone": "713-664-5350 ",
+    "Default Language": "English",
     "Org Web Page": "https://www.svdp77025.org/resources/assistance-organizations",
     "Org PassCode": "d",
-    "Copy to User": false
+    "Copy to User": "false"
   },
   {
     "Registered Organization": "St Michael the Archangel (SVdP D3)",
     "Org Email": "svdpatstmichael@gmail.com",
     "Contact Phone": "713-403-4102",
+    "Default Language": "English",
     "Org Web Page": "https://www.stmichaelchurch.net/society-of-st-vincent-de-paul",
     "Org PassCode": "e",
-    "Copy to User": false
+    "Copy to User": "false"
   }
 ]
