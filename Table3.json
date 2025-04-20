@@ -1,73 +1,91 @@
 [
   {
+    "Assistance": "Rent",
     "Assistance Type": "01-Rent",
     "Tipo de asistencia": "01-Alquiler"
   },
   {
+    "Assistance": "Utilities",
     "Assistance Type": "02-Utilities",
     "Tipo de asistencia": "02-Utilidades"
   },
   {
+    "Assistance": "Homeless",
     "Assistance Type": "03-Homeless",
     "Tipo de asistencia": "03-Sin Hogar"
   },
   {
+    "Assistance": "Food",
     "Assistance Type": "04-Food",
     "Tipo de asistencia": "04-Comida"
   },
   {
+    "Assistance": "Clothing",
     "Assistance Type": "05-Clothing",
     "Tipo de asistencia": "05-Ropa"
   },
   {
+    "Assistance": "Medical",
     "Assistance Type": "06-Medical",
     "Tipo de asistencia": "06-Médico"
   },
   {
+    "Assistance": "Abuse",
     "Assistance Type": "11-Abuse",
     "Tipo de asistencia": "11-Abuso"
   },
   {
+    "Assistance": "Animals",
     "Assistance Type": "12-Animals",
     "Tipo de asistencia": "12-Animales"
   },
   {
+    "Assistance": "Childcare",
     "Assistance Type": "13-Childcare",
     "Tipo de asistencia": "13-Cuidado de Niños"
   },
   {
+    "Assistance": "Christmas Program",
     "Assistance Type": "14-Christmas Program",
     "Tipo de asistencia": "14-Programa de Navidad"
   },
   {
+    "Assistance": "Education",
     "Assistance Type": "15-Education",
     "Tipo de asistencia": "15-Educación"
   },
   {
+    "Assistance": "Handyman",
     "Assistance Type": "16-Handyman",
     "Tipo de asistencia": "16-Manitas"
   },
   {
+    "Assistance": "Jobs",
     "Assistance Type": "17-Jobs",
     "Tipo de asistencia": "17-Trabajos"
   },
   {
+    "Assistance": "Legal",
     "Assistance Type": "18-Legal",
     "Tipo de asistencia": "18-Legal"
   },
   {
+    "Assistance": "Immigration",
     "Assistance Type": "19-Immigration",
     "Tipo de asistencia": "19-Inmigración"
   },
   {
+    "Assistance": "Resources",
     "Assistance Type": "20-Resources",
     "Tipo de asistencia": "20-Recursos"
   },
   {
+    "Assistance": "Seniors",
     "Assistance Type": "21-Seniors",
     "Tipo de asistencia": "21-Personas Mayores"
   },
   {
+    "Assistance": "Transportation",
     "Assistance Type": "22-Transportation",
     "Tipo de asistencia": "22-Transporte"
   }
